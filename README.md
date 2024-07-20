@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HernandezCaracheo11
-- 👀 I’m interested in la tecnología, en las redes sociales y en todo lo que se refiere a la educación
+- 👀 I’m interested in la tecnología, inteligencia artificial, en las redes sociales y en todo lo que se refiere a la educación
 - 🌱 I’m currently learning el uso de nuevas plataformas y app así como tambien el uso de la plataforma github
 - 💞️ I’m looking to collaborate on todo lo que se me pida, soy una persona que me gusta trabajar en equipo
 - 📫 How to reach me ...
